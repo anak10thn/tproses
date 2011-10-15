@@ -1,0 +1,5 @@
+cara installnya :
+- make
+- insmod tproses.ko
+cara remove :
+- rmmod tproses
